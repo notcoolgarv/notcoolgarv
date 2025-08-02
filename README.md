@@ -1,15 +1,22 @@
 # 👋 Hi, I'm Garv Jain
 
-I'm a developer who enjoys building full-stack apps, automation tools, and solving real-world problems.
+I'm a final year BTech Computer Science student at Vellore Institute of Technology passionate about building full-stack applications, automation tools, and impactful software systems. I love working on projects that solve real-world problems.
 
 ---
 
-## 🔥 My GitHub Stats
+## 📬 Connect with Me
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=notcoolgarv&show_icons=true&theme=tokyonight&hide_title=true)
+<p align="left">
+  <a href="mailto:garvjainpb@gmail.com">
+    <img alt="Email" src="https://img.shields.io/badge/Email-garvjainpb@gmail.com-blue?style=flat-square&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://in.linkedin.com/in/garvjainpb" target="_blank">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Garv%20Jain-blue?style=flat-square&logo=linkedin" />
+  </a>
+  <a href="https://drive.google.com/file/d/1-UQ7-4KYLdhG3jR2FPNjRBF2mNpMFM6M/view?usp=sharing" target="_blank">
+    <img alt="Resume" src="https://img.shields.io/badge/Resume-View-green?style=flat-square&logo=googledrive&logoColor=white" />
+  </a>
+</p>
 
----
 
-## 📊 Most Used Languages
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=notcoolgarv&layout=compact&theme=tokyonight)
+> ✨ Always learning. Always building.
