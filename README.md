@@ -6,10 +6,10 @@ I'm a developer who enjoys building full-stack apps, automation tools, and solvi
 
 ## 🔥 My GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=garvjain&show_icons=true&theme=tokyonight&hide_title=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=notcoolgarv&show_icons=true&theme=tokyonight&hide_title=true)
 
 ---
 
 ## 📊 Most Used Languages
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=garvjain&layout=compact&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=notcoolgarv&layout=compact&theme=tokyonight)
